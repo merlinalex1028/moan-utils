@@ -10,7 +10,7 @@ a ts utils lib
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Merlin Alex](https://github.com/merlinalex1028)
+[MIT](./LICENSE) License © 2024-PRESENT [Merlin Alex](https://github.com/merlinalex1028)
 
 <!-- Badges -->
 
