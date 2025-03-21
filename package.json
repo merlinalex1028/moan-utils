@@ -1,7 +1,7 @@
 {
   "name": "moan-utils",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@10.6.2",
   "description": "ts/js   utils collection for moan",
   "author": "Merlin Alex <merlinalex1028@gmail.com>",
